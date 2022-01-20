@@ -1,11 +1,13 @@
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
     
   
 }
 .container{
   border: 1px solid red;
   padding:10px;
+}
+.size{
+  padding: 5px;
+  background-color: rgb(177, 171, 171);
 }

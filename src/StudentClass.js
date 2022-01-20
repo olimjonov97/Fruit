@@ -13,7 +13,7 @@ class StudentClass extends React.Component {
           return (
             
             <tr>
-            <td>{value.id}</td>
+            <td className='size'>{value.id}</td>
             <td>{value.name}</td>
             <td>{value.status}</td>
           </tr>
