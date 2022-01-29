@@ -5,7 +5,7 @@ class StudentClass extends React.Component {
     return (
       <table border="1">
         <tr>
-          <th>ID</th>
+          <th>IDS</th>
           <th>Name</th>
           <th>Status</th>
         </tr>

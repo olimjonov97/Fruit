@@ -1,19 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App.jsx';
-import StudentList from './StudentList.jsx';
+// import './index.css';
+import Fruits from './fruits.jsx';
 
 
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <StudentList/>
+    <Fruits />
   </React.StrictMode>,
 
   document.getElementById('root')
-);
-
-
- 
+); 
